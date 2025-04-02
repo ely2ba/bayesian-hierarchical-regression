@@ -55,8 +55,8 @@ bayesian-hierarchical-regression/
 
 ## 🚧 Status
 
-Mathematical derivation is complete. Code implementation is ongoing and will be uploaded progressively over the coming weeks.
-
+✔️ Core sampler implemented.  
+Codebase expanding with diagnostics, trace plots, and visualization tools over the coming weeks.
 ---
 
 ## 📜 License
