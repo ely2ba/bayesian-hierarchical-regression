@@ -33,9 +33,7 @@ The entire workflow is implemented from first principles in Python using **only 
 
 The model assumes observations grouped by some factor (e.g., schools, regions):
 
-$$
-y_i = \mathbf{x}_i^\top \boldsymbol{\beta} + \gamma_{g(i)} + \epsilon_i, \quad \epsilon_i \sim \mathcal{N}(0, \sigma^2)
-$$
+![Model Equation](https://quicklatex.com/cache3/e9/ql_6ece938cff729788d23a02794467d5e9_l3.png)
 
 Where:
 - $\boldsymbol{\beta}$: global regression coefficients
