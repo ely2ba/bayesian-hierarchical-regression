@@ -49,8 +49,8 @@ Priors
 
 * \$\boldsymbol{\beta} \mid \sigma^2 \sim \mathcal{N}(\boldsymbol{\mu}\_0,; \sigma^2 \Lambda\_0^{-1})\$
 * \$\gamma\_j \mid \tau^2 \sim \mathcal{N}(0,; \tau^2)\$
-* \$\sigma^2 \sim \operatorname{Inv}\text{-}\Gamma(\alpha\_0,; \beta\_0)\$
-* \$\tau^2 \sim \operatorname{Inv}\text{-}\Gamma(\alpha\_\tau,; \beta\_\tau)\$
+* \$\displaystyle \sigma^2 ;\sim; \operatorname{Inv}\text{-}\Gamma!\bigl(\alpha_0,; \beta_0\bigr)$
+* \$\displaystyle \tau^2 ;\sim; \operatorname{Inv}\text{-}\Gamma!\bigl(\alpha_\tau,; \beta_\tau\bigr)$
 
 ---
 
